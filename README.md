@@ -1,5 +1,5 @@
 # leaflet-map-simple
-A simple Leaflet map template for new users to fork their own copy, edit, and host on GitHub Pages
+A simple Leaflet map showing Samson Park.
 
 ## Link to live map 
 https://wldwd.github.io/leaflet-map-simple/
